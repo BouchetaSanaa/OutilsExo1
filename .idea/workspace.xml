@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faea50f3-e358-42a6-b6d3-47caee8bb1e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Telly/WebContent/WEB-INF/jsps/createaccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/WebContent/WEB-INF/jsps/denied.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/WebContent/WEB-INF/jsps/loggedout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/WebContent/WEB-INF/jsps/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/WebContent/WEB-INF/jsps/results.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/src/com/telly/dao/FromValidationGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/src/com/telly/dao/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/src/com/telly/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telly/src/com/telly/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
       <change beforePath="$PROJECT_DIR$/Telly/src/com/telly/config/security-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Telly/src/com/telly/config/security-context.xml" afterDir="false" />
+=======
+>>>>>>> Gestion_Des_Utilisateurs
       <change beforePath="$PROJECT_DIR$/Telly/src/com/telly/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Telly/src/com/telly/controllers/UserController.java" afterDir="false" />
 >>>>>>> Securité
     </list>
@@ -29,6 +41,11 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Downloads\Outils\Telly-intial\Telly\WebContent\WEB-INF\jsps" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
