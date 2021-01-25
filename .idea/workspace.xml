@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="faea50f3-e358-42a6-b6d3-47caee8bb1e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/Telly/src/com/telly/config/security-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Telly/src/com/telly/config/security-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telly/src/com/telly/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Telly/src/com/telly/controllers/UserController.java" afterDir="false" />
+>>>>>>> Securité
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
